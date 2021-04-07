@@ -8,7 +8,7 @@ The goal of this project is to create an app that allows users to make meals as 
 Application Structure Flow Diagram
 ![image](https://user-images.githubusercontent.com/32312941/113820213-3bf37480-972f-11eb-967f-004d36ef0fa6.png)
 
-Technical Specifications Main Screens
+# Technical Specifications Main Screens
 
 | User Action  | System Does  |
 | ------------- | ------------- |
@@ -22,8 +22,11 @@ Technical Specifications Main Screens
 | Click on meal image in the meal page | This allows the user to access the recipe and ingredients that are needed to make the meal.|
 
 
-High Level Design
-# SQLite database is used to store the users information and allergies.
-# mealDB api is where the meals are gotten from and also the recipes and ingredients.
-# Android studio is used to build the application.
-# Java language is used in writing the code for the application.
+# High Level Design
+SQLite database is used to store the users information and allergies.
+mealDB api is where the meals are gotten from and also the recipes and ingredients.
+Android studio is used to build the application.
+Java language is used in writing the code for the application.
+
+![image](https://user-images.githubusercontent.com/32312941/113823124-1f593b80-9733-11eb-8758-dbd474fc5274.png)
+
