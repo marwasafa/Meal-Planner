@@ -8,7 +8,7 @@ The goal of this project is to create an app that allows users to make meals as 
 Application Structure Flow Diagram
 ![image](https://user-images.githubusercontent.com/32312941/113820213-3bf37480-972f-11eb-967f-004d36ef0fa6.png)
 
-| type|name |description |
+| Technical Specifications Main Screens |
 |----|---|---|
 | *address* | _user | address of certificate owner |
 | *bytes32* | _hash | sha256 hash of the certificate text |
