@@ -11,7 +11,7 @@ Application Structure Flow Diagram
 
 
 |Technical Specifications Main Screens|
-| :-------------| :-------------|
+| :-------------:| :-------------:|
 | User Action  | System Does|
 | Click signup button | It takes you to the signup page where user writes their information to be registered|
 | Click sign in button | It takes the user to the sign in page where the user uses the username and password they registered with to log in.|
