@@ -8,11 +8,10 @@ The goal of this project is to create an app that allows users to make meals as 
 Application Structure Flow Diagram
 ![image](https://user-images.githubusercontent.com/32312941/113820213-3bf37480-972f-11eb-967f-004d36ef0fa6.png)
 
-Technical Specifications
-Main Screens
+
 
 |Technical Specifications Main Screens |
-| ------------- | ------------- |
+| :------------- | :------------- |
 | User Action  | System Does   |
 | Click signup button | It takes you to the signup page where user writes their information to be registered |
 | Click sign in button | It takes the user to the sign in page where the user uses the username and password they registered with to log in. |
